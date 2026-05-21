@@ -72,24 +72,23 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abdulsamad00529&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Abdul Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=abdulsamad00529&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abdulsamad00529&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdulsamad00529&theme=tokyonight&column=7)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=abdulsamad00529&theme=github-compact&hide_border=false)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulsamad00529&theme=tokyo-night)
 ---
 
 ### 💬 Random Dev Quote
