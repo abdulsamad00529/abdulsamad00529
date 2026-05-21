@@ -3,8 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+%26+ML+Engineer+in+Training;Computer+Vision+%7C+Deep+Learning;Building+Intelligent+Systems+with+Python;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 🎓 Final-Year BS Artificial Intelligence Student at SZABIST Islamabad
+
 🤖 Passionate about AI, Machine Learning & Computer Vision
+
 🚀 Building real-world intelligent systems with Python
+
 📍 Islamabad, Pakistan
 
 ---
