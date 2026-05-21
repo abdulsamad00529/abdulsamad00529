@@ -72,20 +72,11 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800">
-  <img src="https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800">
-</picture>
+## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github">
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight&langs_count=8">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight&langs_count=8">
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com/github-readme-stats/api?username=abdulsamad00529&show_icons=true&theme=tokyonight)
 
 ---
 
