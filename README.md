@@ -72,12 +72,20 @@
 
 ## 📊 GitHub Stats
 
-![Abdul Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulsamad00529&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800">
+  <img src="https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800">
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight&cache_seconds=1800">
+</picture>
 ---
 
 ## 🏆 GitHub Trophies
