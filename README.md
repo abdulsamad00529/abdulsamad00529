@@ -72,11 +72,9 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/github-readme-stats/api?username=abdulsamad00529&show_icons=true&theme=tokyonight)
+![Top Languages](https://readme-stats.demolab.com/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight)
 
 ---
 
