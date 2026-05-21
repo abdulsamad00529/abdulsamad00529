@@ -74,8 +74,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulsamad00529&theme=tokyonight)
 
-![Top Languages](https://readme-stats.demolab.com/api/top-langs/?username=abdulsamad00529&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🏆 GitHub Trophies
